@@ -1,3 +1,8 @@
+--[[
+    skip = true
+        If you're bringing the player back to a previous set of responses, skip the NPC's dialog animation - as they've just experienced it
+]]
+
 return {
     Config = {
         -- focusPart = "Head",
@@ -14,14 +19,18 @@ return {
     };
 
     QuestionB = {
-        text = "Great! Are you ready?",
+        text = "Great! What is it you want?",
         responses = {
-            {text = "Yes, let's go!"},
-            {text = "No, sorry"}
+            {text = "What is El Dorado?", nextQuestion = "QuestionC"},
+            {text = "Goodbye"}
         }
     };
 
     QuestionC = {
-        text = "Oh. Ok then"
+        text = "El Dorado was the term used by the Spanish in the 16th century to describe a mythical tribal chief of the Muisca people",
+        responses = {
+            {text = "Cool, thanks!", nextQuestion = "QuestionB", skip = true},
+            {text = "Goodbye", func = "startQuest"}
+        };
     };
 }

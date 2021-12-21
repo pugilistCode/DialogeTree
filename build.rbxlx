@@ -74,27 +74,27 @@
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame">
-					<X>-18.1717033</X>
-					<Y>9.17665482</Y>
-					<Z>9.73618317</Z>
-					<R00>-0.760049164</R00>
-					<R01>-0.169558927</R01>
-					<R02>0.627355576</R02>
+					<X>-68.5522079</X>
+					<Y>23.7611599</Y>
+					<Z>-25.8812561</Z>
+					<R00>-0.999315321</R00>
+					<R01>0.00269059371</R01>
+					<R02>-0.0368996225</R02>
 					<R10>-0</R10>
-					<R11>0.965362072</R11>
-					<R12>0.260913849</R12>
-					<R20>-0.649865568</R20>
-					<R21>0.19830735</R21>
-					<R22>-0.733722687</R22>
+					<R11>0.997352183</R11>
+					<R12>0.0727235004</R12>
+					<R20>0.0369975828</R20>
+					<R21>0.0726737082</R21>
+					<R22>-0.996669412</R22>
 				</CoordinateFrame>
 				<Ref name="CameraSubject">null</Ref>
 				<token name="CameraType">0</token>
 				<float name="FieldOfView">70</float>
 				<token name="FieldOfViewMode">0</token>
 				<CoordinateFrame name="Focus">
-					<X>-19.4264145</X>
-					<Y>8.65482712</Y>
-					<Z>11.2036285</Z>
+					<X>-68.4784088</X>
+					<Y>23.6157131</Y>
+					<Z>-23.8879204</Z>
 					<R00>1</R00>
 					<R01>0</R01>
 					<R02>0</R02>
@@ -363,7 +363,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 			</Properties>
 			<Item class="Part" referent="RBX3E3A646A64AE4779A2062D2E16A5128C">
 				<Properties>
-					<bool name="Anchored">false</bool>
+					<bool name="Anchored">true</bool>
 					<BinaryString name="AttributesSerialize"></BinaryString>
 					<float name="BackParamA">-0.5</float>
 					<float name="BackParamB">0.5</float>
@@ -600,7 +600,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 			</Item>
 			<Item class="Part" referent="RBX9FC610B4D7724C63A560B2AC9C02723F">
 				<Properties>
-					<bool name="Anchored">false</bool>
+					<bool name="Anchored">true</bool>
 					<BinaryString name="AttributesSerialize"></BinaryString>
 					<float name="BackParamA">-0.5</float>
 					<float name="BackParamB">0.5</float>
@@ -736,7 +736,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 			</Item>
 			<Item class="Part" referent="RBXEDBD8EBF19F2435B85D4B16F25E7AD0C">
 				<Properties>
-					<bool name="Anchored">false</bool>
+					<bool name="Anchored">true</bool>
 					<BinaryString name="AttributesSerialize"></BinaryString>
 					<float name="BackParamA">-0.5</float>
 					<float name="BackParamB">0.5</float>
@@ -854,7 +854,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 			</Item>
 			<Item class="Part" referent="RBX2BCB3EA61E004AB3A8427694BE64BE17">
 				<Properties>
-					<bool name="Anchored">false</bool>
+					<bool name="Anchored">true</bool>
 					<BinaryString name="AttributesSerialize"></BinaryString>
 					<float name="BackParamA">-0.5</float>
 					<float name="BackParamB">0.5</float>
@@ -948,7 +948,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 			</Item>
 			<Item class="Part" referent="RBX1ABA68FA423C4338980537988F2ED6D7">
 				<Properties>
-					<bool name="Anchored">false</bool>
+					<bool name="Anchored">true</bool>
 					<BinaryString name="AttributesSerialize"></BinaryString>
 					<float name="BackParamA">-0.5</float>
 					<float name="BackParamB">0.5</float>
@@ -1066,7 +1066,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 			</Item>
 			<Item class="Part" referent="RBXE810D278048344C9A60FC86A37DE7A59">
 				<Properties>
-					<bool name="Anchored">false</bool>
+					<bool name="Anchored">true</bool>
 					<BinaryString name="AttributesSerialize"></BinaryString>
 					<float name="BackParamA">-0.5</float>
 					<float name="BackParamB">0.5</float>
@@ -1160,7 +1160,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 			</Item>
 			<Item class="Part" referent="RBX7DC3CDFF0EE646A2AEB2360ED8DDA2B6">
 				<Properties>
-					<bool name="Anchored">false</bool>
+					<bool name="Anchored">true</bool>
 					<BinaryString name="AttributesSerialize"></BinaryString>
 					<float name="BackParamA">-0.5</float>
 					<float name="BackParamB">0.5</float>
@@ -1745,8 +1745,8 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 						<token name="BottomSurfaceInput">0</token>
 						<CoordinateFrame name="CFrame">
 							<X>-27</X>
-							<Y>6.1496172</Y>
-							<Z>23.5896626</Z>
+							<Y>6.12857103</Y>
+							<Z>23.5896053</Z>
 							<R00>1</R00>
 							<R01>-7.87137555e-09</R01>
 							<R02>0</R02>
@@ -1915,6 +1915,86 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<UniqueId name="UniqueId">7bae0d64eeac5e8a01d22bd4000266ab</UniqueId>
+						</Properties>
+					</Item>
+					<Item class="Weld" referent="RBX75D00765FE9245878591C5F2353439E4">
+						<Properties>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<CoordinateFrame name="C0">
+								<X>1.02045306e-08</X>
+								<Y>-0.117857032</Y>
+								<Z>-0.000320859253</Z>
+								<R00>1</R00>
+								<R01>7.87137555e-09</R01>
+								<R02>-3.26223034e-24</R02>
+								<R10>-7.87137555e-09</R10>
+								<R11>1</R11>
+								<R12>-4.1444221e-16</R12>
+								<R20>0</R20>
+								<R21>4.1444221e-16</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<CoordinateFrame name="C1">
+								<X>0</X>
+								<Y>0.707142889</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<bool name="Enabled">true</bool>
+							<string name="Name">AccessoryWeld</string>
+							<Ref name="Part0">RBXA79F55EE288E48D3A26885D74C7EB36B</Ref>
+							<Ref name="Part1">RBX3E3A646A64AE4779A2062D2E16A5128C</Ref>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"></BinaryString>
+							<UniqueId name="UniqueId">291db6297569e95601d260ef0001a3df</UniqueId>
+						</Properties>
+					</Item>
+					<Item class="Weld" referent="RBXA7E2BB4983044FFE9CB87063691FEC1B">
+						<Properties>
+							<BinaryString name="AttributesSerialize"></BinaryString>
+							<CoordinateFrame name="C0">
+								<X>1.02045306e-08</X>
+								<Y>-0.117857032</Y>
+								<Z>-0.000320859253</Z>
+								<R00>1</R00>
+								<R01>7.87137555e-09</R01>
+								<R02>-3.26223034e-24</R02>
+								<R10>-7.87137555e-09</R10>
+								<R11>1</R11>
+								<R12>-4.1444221e-16</R12>
+								<R20>0</R20>
+								<R21>4.1444221e-16</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<CoordinateFrame name="C1">
+								<X>0</X>
+								<Y>0.707142889</Y>
+								<Z>0</Z>
+								<R00>1</R00>
+								<R01>0</R01>
+								<R02>0</R02>
+								<R10>0</R10>
+								<R11>1</R11>
+								<R12>0</R12>
+								<R20>0</R20>
+								<R21>0</R21>
+								<R22>1</R22>
+							</CoordinateFrame>
+							<bool name="Enabled">true</bool>
+							<string name="Name">AccessoryWeld</string>
+							<Ref name="Part0">RBXA79F55EE288E48D3A26885D74C7EB36B</Ref>
+							<Ref name="Part1">RBX3E3A646A64AE4779A2062D2E16A5128C</Ref>
+							<int64 name="SourceAssetId">-1</int64>
+							<BinaryString name="Tags"></BinaryString>
+							<UniqueId name="UniqueId">73a25fffcf938b0e01d35f7b0001a3e0</UniqueId>
 						</Properties>
 					</Item>
 				</Item>
@@ -2392,8 +2472,6 @@ local dialogueTree = require(script.DialogueTree)
 local dialogueModules = {}
 local prompts = {} -- There could be different ways to initiate dialogue
 
-local conversating = false
-
 function prompts.proximityPrompt(self)
     local model = self.model
 
@@ -2444,29 +2522,80 @@ end]]></ProtectedString>
 dialogue.__index = dialogue
 
 local tweenService = game:GetService("TweenService")
+local debris = game:GetService("Debris")
 local runService = game:GetService("RunService")
+local userInputService = game:GetService("UserInputService")
+local contextActionService = game:GetService("ContextActionService")
 
 local player = game.Players.LocalPlayer
 local playerGui = player.PlayerGui
 local camera = workspace.CurrentCamera
 
 local conversating = false
+local tapEvent
 
-function dialogue:create(model, module, focusPart)
+function dialogue:create(model, module, cameraPart)
     local newNPC = {}
     setmetatable(newNPC, dialogue)
 
     newNPC.model = model
-    newNPC.focusPart = focusPart-- What part shuold the camera focus on?
+    newNPC.focusPart = cameraPart-- What part shuold the camera focus on?
     newNPC.tree = module -- Dialogue tree input
 
     return newNPC
 end
 
-function dialogue:createOptions(option)
+function dialogue:playSound(sound)
+    local findSound = game.ReplicatedStorage:FindFirstChild(sound)
+    if findSound then
+        local copy = findSound:Clone()
+        copy.Parent = workspace
+        copy:Play()
+        debris:AddItem(copy, copy.TimeLength)
+    end
+end
+
+function dialogue:typeWrite(text, delayBetweenChars)
+    local textLabel = self.gui.Dialogue.NPC
+    local displayText = text
+   -- local delayBetweenChars = 0.0040625*#text
+
+    displayText = displayText:gsub("<br%s*/>", "\n")
+	displayText:gsub("<[^<>]->", "")
+
+	-- Set translated/modified text on parent
+	textLabel.Text = displayText
+
+	local index = 0
+	for first, last in utf8.graphemes(displayText) do
+        if self.skip then
+            textLabel.MaxVisibleGraphemes = #text
+            self.skip = false
+            break
+        end
+        self:playSound("KeyPress")
+		index = index + 1
+		textLabel.MaxVisibleGraphemes = index
+		wait(delayBetweenChars)
+	end
+end
+
+function dialogue:startQuest(self)
+    print("yo!")
+end
+
+function dialogue:createOptions(option, skip)
     local tab = self.tree[option]
     local gui = self.gui
     local responses = tab.responses
+
+    if not skip then
+        gui.SkipHint.Visible = true
+        self:typeWrite(tab.text, 0.065)
+        gui.SkipHint.Visible = false
+    else
+        gui.Dialogue.NPC.Text = tab.text
+    end
 
     for _, child in pairs(gui.Dialogue.Options:GetChildren()) do
         if child:IsA("TextButton") then
@@ -2474,21 +2603,51 @@ function dialogue:createOptions(option)
         end
     end
 
+    local debounce = false
     for i = 1, #responses do
         local option = responses[i]
         local button = game.ReplicatedStorage.ResponseButton:Clone()
         button.Text = option.text
+        button.MouseEnter:Connect(function()
+            self:playSound("Hover")
+            tweenService:Create(button, TweenInfo.new(0.15, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), {TextColor3 = Color3.fromRGB(245, 191, 43)}):Play()
+        end)
+        button.MouseLeave:Connect(function()
+            tweenService:Create(button, TweenInfo.new(0.15, Enum.EasingStyle.Linear, Enum.EasingDirection.In), {TextColor3 = Color3.fromRGB(255, 255, 255)}):Play()
+        end)
         button.MouseButton1Down:Connect(function()
+            if debounce then return end -- Avoid spam
+            debounce = true
 
+            local nextQuestion = option.nextQuestion
+
+            local func = option.func
+            if func then
+                dialogue[func](self)
+            end
+
+            self:playSound("Click")
+            tweenService:Create(gui.Dialogue.Options, TweenInfo.new(0.3, Enum.EasingStyle.Back, Enum.EasingDirection.In), {Position = UDim2.new(0, 0, 1, 0)}):Play()
+
+            if nextQuestion then 
+                self:createOptions(option.nextQuestion, option.skip)
+            else
+                self:finish()
+            end
         end)
         button.Parent = gui.Dialogue.Options
     end
-
-    gui.Dialogue.NPC.Text = tab.text
+    tweenService:Create(gui.Dialogue.Options, TweenInfo.new(0.4, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {Position = UDim2.new(0, 0, 0.5, 0)}):Play()
 end
 
 function dialogue:cameraTween(delta)
-    camera.CFrame = camera.CFrame:Lerp(self.focusPart.CFrame, 0.03)
+    camera.CFrame = camera.CFrame:Lerp(self.focusPart.CFrame, 0.1)
+end
+
+function dialogue:tapToSkip(input, gp)
+    if not gp then
+        self.skip = true
+    end
 end
 
 function dialogue:initialize(prompt)
@@ -2496,13 +2655,22 @@ function dialogue:initialize(prompt)
     conversating = true
 
     if prompt then
-        prompt.Enabled = false
+        self.prompt = prompt
+        self.prompt.Enabled = false
     end
 
+    self:playSound("Swoosh") -- playing around with this
     camera.CameraType = Enum.CameraType.Scriptable
+
     runService:BindToRenderStep("TweenToPart", Enum.RenderPriority.Camera.Value + 1, function(delta)
         self:cameraTween(delta)
     end)
+
+    tapEvent = userInputService.InputBegan:Connect(function(...)
+        self:tapToSkip(...)
+    end)
+
+    wait(1)
 
     -- camera/UI setup
     local gui = game.ReplicatedStorage.DialogueGui:Clone()
@@ -2516,6 +2684,16 @@ function dialogue:finish()
     local ui = self.gui
     if ui then ui:Destroy() end
 
+    if self.prompt then
+        self.prompt.Enabled = true
+    end
+
+    if tapEvent then
+        tapEvent:Disconnect()
+    end
+
+    runService:UnbindFromRenderStep("TweenToPart")
+    camera.CameraType = Enum.CameraType.Custom
     conversating = false
 end
 
@@ -2539,9 +2717,14 @@ return dialogue]]></ProtectedString>
 							<Content name="LinkedSource"><null></null></Content>
 							<string name="Name">Indiana Jones</string>
 							<string name="ScriptGuid">{11B08821-CAE2-4CCD-A3DC-E7E2490DD204}</string>
-							<ProtectedString name="Source"><![CDATA[return {
+							<ProtectedString name="Source"><![CDATA[--[[
+    skip = true
+        If you're bringing the player back to a previous set of responses, skip the NPC's dialog animation - as they've just experienced it
+]]
+
+return {
     Config = {
-        focusPart = "Head",
+        -- focusPart = "Head",
         prompt = "proximityPrompt" -- choose a prompt to initialize the conversation
     };
 
@@ -2550,20 +2733,24 @@ return dialogue]]></ProtectedString>
         responses = {
             {text = "Hey! I'm fine", nextQuestion = "QuestionB"},
             {text = "I'm doing great, thanks", nextQuestion = "QuestionB"},
-            {text = "I don't care", nextQuestion = "QuestionC"},
+            {text = "I don't care"},
         }
     };
 
     QuestionB = {
-        text = "Great! Are you ready?",
+        text = "Great! What is it you want?",
         responses = {
-            {text = "Yes, let's go!"},
-            {text = "No, sorry"}
+            {text = "What is El Dorado?", nextQuestion = "QuestionC"},
+            {text = "Goodbye"}
         }
     };
 
     QuestionC = {
-        text = "Oh. Ok then"
+        text = "El Dorado was the term used by the Spanish in the 16th century to describe a mythical tribal chief of the Muisca people",
+        responses = {
+            {text = "Cool, thanks!", nextQuestion = "QuestionB", skip = true},
+            {text = "Goodbye", func = "startQuest"}
+        };
     };
 }]]></ProtectedString>
 							<int64 name="SourceAssetId">-1</int64>
@@ -2815,6 +3002,15 @@ bGUDAQ==]]></BinaryString>
 				</Properties>
 			</Item>
 		</Item>
+		<Item class="Folder" referent="RBXF8EE028CA7534CCCA7C2B32C90AE9CB8">
+			<Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<string name="Name">NodePresets</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<UniqueId name="UniqueId">291db6297569e95601d260ef000249d0</UniqueId>
+			</Properties>
+		</Item>
 	</Item>
 	<Item class="ReplicatedStorage" referent="1">
 		<Properties>
@@ -2857,11 +3053,11 @@ bGUDAQ==]]></BinaryString>
 				<bool name="AutoLocalize">true</bool>
 				<token name="AutomaticSize">0</token>
 				<Color3 name="BackgroundColor3">
-					<R>1</R>
-					<G>1</G>
-					<B>1</B>
+					<R>0.274509817</R>
+					<G>0.0823529437</G>
+					<B>0.0470588282</B>
 				</Color3>
-				<float name="BackgroundTransparency">0.5</float>
+				<float name="BackgroundTransparency">0.100000001</float>
 				<Color3 name="BorderColor3">
 					<R>0.105882362</R>
 					<G>0.164705887</G>
@@ -2905,9 +3101,9 @@ bGUDAQ==]]></BinaryString>
 				<BinaryString name="Tags"></BinaryString>
 				<string name="Text">option1</string>
 				<Color3 name="TextColor3">
-					<R>0</R>
-					<G>0.254901975</G>
-					<B>0.372549027</B>
+					<R>1</R>
+					<G>1</G>
+					<B>1</B>
 				</Color3>
 				<bool name="TextScaled">true</bool>
 				<float name="TextSize">14</float>
@@ -2925,6 +3121,86 @@ bGUDAQ==]]></BinaryString>
 				<UniqueId name="UniqueId">7bae0d64eeac5e8a01d22bd4000ac374</UniqueId>
 				<bool name="Visible">true</bool>
 				<int name="ZIndex">1</int>
+			</Properties>
+		</Item>
+		<Item class="Sound" referent="RBXC1351512E71D4147898535546BA40A2A">
+			<Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="EmitterSize">10</float>
+				<bool name="Looped">false</bool>
+				<string name="Name">Hover</string>
+				<bool name="PlayOnRemove">false</bool>
+				<float name="PlaybackSpeed">1</float>
+				<bool name="Playing">false</bool>
+				<token name="RollOffMode">0</token>
+				<Ref name="SoundGroup">null</Ref>
+				<Content name="SoundId"><url>rbxassetid://3314301151</url></Content>
+				<int64 name="SourceAssetId">3314301151</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<double name="TimePosition">0</double>
+				<UniqueId name="UniqueId">73a25fffcf938b0e01d35f7b00048354</UniqueId>
+				<float name="Volume">0.5</float>
+				<float name="xmlRead_MaxDistance_3">10000</float>
+			</Properties>
+		</Item>
+		<Item class="Sound" referent="RBX374F709D8D4D44E69B7E127BCC2ADF9F">
+			<Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="EmitterSize">10</float>
+				<bool name="Looped">false</bool>
+				<string name="Name">Click</string>
+				<bool name="PlayOnRemove">false</bool>
+				<float name="PlaybackSpeed">1</float>
+				<bool name="Playing">false</bool>
+				<token name="RollOffMode">0</token>
+				<Ref name="SoundGroup">null</Ref>
+				<Content name="SoundId"><url>rbxassetid://421058925</url></Content>
+				<int64 name="SourceAssetId">421058925</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<double name="TimePosition">0</double>
+				<UniqueId name="UniqueId">73a25fffcf938b0e01d35f7b00048bc6</UniqueId>
+				<float name="Volume">0.5</float>
+				<float name="xmlRead_MaxDistance_3">10000</float>
+			</Properties>
+		</Item>
+		<Item class="Sound" referent="RBXF7DF7D8476F14EA69F68BFD86CD69376">
+			<Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="EmitterSize">10</float>
+				<bool name="Looped">false</bool>
+				<string name="Name">Swoosh</string>
+				<bool name="PlayOnRemove">false</bool>
+				<float name="PlaybackSpeed">1</float>
+				<bool name="Playing">false</bool>
+				<token name="RollOffMode">0</token>
+				<Ref name="SoundGroup">null</Ref>
+				<Content name="SoundId"><url>rbxassetid://2174939926</url></Content>
+				<int64 name="SourceAssetId">2174939926</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<double name="TimePosition">0</double>
+				<UniqueId name="UniqueId">73a25fffcf938b0e01d35f7b00135dd9</UniqueId>
+				<float name="Volume">0.5</float>
+				<float name="xmlRead_MaxDistance_3">10000</float>
+			</Properties>
+		</Item>
+		<Item class="Sound" referent="RBX0E418FAE931C4A62A71D947B481C3D61">
+			<Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="EmitterSize">10</float>
+				<bool name="Looped">false</bool>
+				<string name="Name">KeyPress</string>
+				<bool name="PlayOnRemove">false</bool>
+				<float name="PlaybackSpeed">1</float>
+				<bool name="Playing">false</bool>
+				<token name="RollOffMode">0</token>
+				<Ref name="SoundGroup">null</Ref>
+				<Content name="SoundId"><url>rbxassetid://6236124004</url></Content>
+				<int64 name="SourceAssetId">6236124004</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<double name="TimePosition">0</double>
+				<UniqueId name="UniqueId">73a25fffcf938b0e01d35f7b0021e6f1</UniqueId>
+				<float name="Volume">0.5</float>
+				<float name="xmlRead_MaxDistance_3">10000</float>
 			</Properties>
 		</Item>
 		<Item class="ScreenGui" referent="RBXC81D6BC088EB4C98B35DE1280D960CC9">
@@ -2965,7 +3241,7 @@ bGUDAQ==]]></BinaryString>
 					</Color3>
 					<token name="BorderMode">0</token>
 					<int name="BorderSizePixel">0</int>
-					<bool name="ClipsDescendants">false</bool>
+					<bool name="ClipsDescendants">true</bool>
 					<bool name="Draggable">false</bool>
 					<int name="LayoutOrder">0</int>
 					<string name="Name">Dialogue</string>
@@ -3109,7 +3385,7 @@ bGUDAQ==]]></BinaryString>
 						<UDim2 name="Position">
 							<XS>0</XS>
 							<XO>0</XO>
-							<YS>0.5</YS>
+							<YS>1</YS>
 							<YO>0</YO>
 						</UDim2>
 						<Ref name="RootLocalizationTable">null</Ref>
@@ -3148,6 +3424,84 @@ bGUDAQ==]]></BinaryString>
 						</Properties>
 					</Item>
 				</Item>
+			</Item>
+			<Item class="TextLabel" referent="RBX9C01A93C94FB4E7981AB010B3FC0BEC6">
+				<Properties>
+					<bool name="Active">false</bool>
+					<Vector2 name="AnchorPoint">
+						<X>0.5</X>
+						<Y>0</Y>
+					</Vector2>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="AutoLocalize">true</bool>
+					<token name="AutomaticSize">0</token>
+					<Color3 name="BackgroundColor3">
+						<R>1</R>
+						<G>1</G>
+						<B>1</B>
+					</Color3>
+					<float name="BackgroundTransparency">1</float>
+					<Color3 name="BorderColor3">
+						<R>0.105882362</R>
+						<G>0.164705887</G>
+						<B>0.207843155</B>
+					</Color3>
+					<token name="BorderMode">0</token>
+					<int name="BorderSizePixel">0</int>
+					<bool name="ClipsDescendants">false</bool>
+					<bool name="Draggable">false</bool>
+					<token name="Font">41</token>
+					<int name="LayoutOrder">0</int>
+					<float name="LineHeight">1</float>
+					<int name="MaxVisibleGraphemes">-1</int>
+					<string name="Name">SkipHint</string>
+					<Ref name="NextSelectionDown">null</Ref>
+					<Ref name="NextSelectionLeft">null</Ref>
+					<Ref name="NextSelectionRight">null</Ref>
+					<Ref name="NextSelectionUp">null</Ref>
+					<UDim2 name="Position">
+						<XS>0.5</XS>
+						<XO>0</XO>
+						<YS>0.649999976</YS>
+						<YO>0</YO>
+					</UDim2>
+					<bool name="RichText">false</bool>
+					<Ref name="RootLocalizationTable">null</Ref>
+					<float name="Rotation">0</float>
+					<bool name="Selectable">false</bool>
+					<Ref name="SelectionImageObject">null</Ref>
+					<UDim2 name="Size">
+						<XS>1</XS>
+						<XO>0</XO>
+						<YS>0.0500000007</YS>
+						<YO>0</YO>
+					</UDim2>
+					<token name="SizeConstraint">0</token>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<string name="Text">Tap anywhere to skip</string>
+					<Color3 name="TextColor3">
+						<R>1</R>
+						<G>1</G>
+						<B>1</B>
+					</Color3>
+					<bool name="TextScaled">true</bool>
+					<float name="TextSize">14</float>
+					<Color3 name="TextStrokeColor3">
+						<R>0.117647059</R>
+						<G>0.117647059</G>
+						<B>0.117647059</B>
+					</Color3>
+					<float name="TextStrokeTransparency">1</float>
+					<float name="TextTransparency">0.5</float>
+					<token name="TextTruncate">0</token>
+					<bool name="TextWrapped">true</bool>
+					<token name="TextXAlignment">2</token>
+					<token name="TextYAlignment">1</token>
+					<UniqueId name="UniqueId">73a25fffcf938b0e01d35f7b003ca87d</UniqueId>
+					<bool name="Visible">false</bool>
+					<int name="ZIndex">1</int>
+				</Properties>
 			</Item>
 		</Item>
 	</Item>
